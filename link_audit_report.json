@@ -1,0 +1,334 @@
+{
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Dinas\\dashboardDinas.blade.php": [
+        {
+            "line": 470,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        },
+        {
+            "line": 480,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        },
+        {
+            "line": 490,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Dinas\\sertifHalalCadang.blade.php": [
+        {
+            "line": 209,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<div class=\"fixed inset-0 z-[100] flex items-center justify-center p-4 transition-all duration-300 modal-visible\" id=\"halal-detail-modal\"><div class=\"absolute inset-0 bg-black/60 backdrop-blur-md\" onclick=\"closeHalalModal()\"></div><div class=\"relative w-full max-w-lg bg-surface-container-low rounded-xl border border-outline-variant/10 shadow-2xl overflow-hidden\"><div class=\"px-6 py-4 border-b border-outline-variant/10 flex justify-between items-center\"><h3 class=\"font-headline-md text-brand-beige\">Detail Sertifikat Halal</h3><button class=\"text-on-surface-variant hover:text-brand-beige transition-colors cursor-pointer\" onclick=\"document.getElementById('halal-detail-modal').classList.replace('modal-visible', 'modal-hidden')\"><span class=\"material-symbols-outlined\">close</span></button></div><div class=\"p-6 space-y-6\"><div><h4 class=\"text-xl font-bold text-brand-beige\">Martabak HAR Simpang Sekip</h4><div class=\"flex items-center gap-2 mt-1\"><p class=\"text-sm text-on-surface-variant\">#HAL-2024-089</p><span class=\"px-2 py-0.5 rounded bg-secondary/10 text-secondary text-[10px] font-bold uppercase\">Reviewing</span></div></div><div class=\"space-y-4\"><p class=\"text-xs font-bold text-brand-beige uppercase tracking-widest border-b border-outline-variant/10 pb-2\">Informasi Sertifikat</p><div class=\"grid grid-cols-2 gap-y-4 gap-x-4\"><div><p class=\"text-[10px] text-on-surface-variant uppercase tracking-widest mb-1\">Tanggal Rilis</p><p class=\"text-brand-beige font-medium\">20 Mei 2023</p></div><div><p class=\"text-[10px] text-on-surface-variant uppercase tracking-widest mb-1\">Berlaku Hingga</p><p class=\"text-brand-beige font-medium\">20 Mei 2027</p></div><div><p class=\"text-[10px] text-on-surface-variant uppercase tracking-widest mb-1\">Diterbitkan Oleh</p><p class=\"text-brand-beige font-medium\">BPJPH Kementerian Agama RI</p></div><div><p class=\"text-[10px] text-on-surface-variant uppercase tracking-widest mb-1\">Lokasi Penerbitan</p><p class=\"text-brand-beige font-medium\">Jakarta, Indonesia</p></div><div class=\"col-span-2\"><p class=\"text-[10px] text-on-surface-variant uppercase tracking-widest mb-1\">Nomor Sertifikat</p><p class=\"text-brand-beige font-medium\">#HAL-2024-089</p></div></div></div><div class=\"bg-surface-container-high/30 p-4 rounded-lg flex justify-between items-center\"><div class=\"flex items-center gap-3\"><span class=\"material-symbols-outlined text-brand-maroon\">picture_as_pdf</span><span class=\"text-sm text-brand-beige\">Dokumen Sertifikat Halal</span></div><a class=\"text-sm text-secondary font-medium hover:underline flex items-center gap-1\" href=\"#\" target=\"_blank\">Lihat Sertifikat (PDF)<span class=\"material-symbols-outlined text-[16px]\">open_in_new</span></a></div></div><div class=\"px-6 py-6 bg-surface-container-high/20 flex justify-end gap-3\"><button class=\"px-6 py-2.5 rounded-lg border border-outline-variant/20 text-on-surface-variant font-label-md hover:bg-surface-container-high transition-all cursor-pointer\" onclick=\"document.getElementById('halal-detail-modal').classList.replace('modal-visible', 'modal-hidden')\">Tutup</button><button class=\"px-6 py-2.5 rounded-lg bg-brand-maroon text-brand-beige font-label-md hover:brightness-110 transition-all cursor-pointer\" onclick=\"alert('Sertifikat Berhasil Disetujui!'); document.getElementById('halal-detail-modal').classList.replace('modal-visible', 'modal-hidden')\">Setujui Sertifikat</button></div></div></div>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Dinas\\sertifikatHalal.blade.php": [
+        {
+            "line": 184,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<div class=\"fixed inset-0 z-[100] flex items-center justify-center p-4 transition-all duration-300 modal-visible\" id=\"halal-detail-modal\"><div class=\"absolute inset-0 bg-black/60 backdrop-blur-md\" onclick=\"closeHalalModal()\"></div><div class=\"relative w-full max-w-lg bg-surface-container-low rounded-xl border border-outline-variant/10 shadow-2xl overflow-hidden\"><div class=\"p-8 flex flex-col items-center text-center space-y-6\"><div class=\"w-20 h-20 rounded-full bg-brand-maroon flex items-center justify-center mb-2\"><span class=\"material-symbols-outlined text-brand-beige text-[48px] fill\">check_circle</span></div><div class=\"space-y-3\"><h3 class=\"font-headline-md text-brand-beige font-bold\">Sertifikat Berhasil Disetujui</h3><p class=\"font-body-md text-on-surface-variant max-w-sm\">Sertifikat halal untuk Martabak HAR Simpang Sekip telah berhasil divalidasi dan statusnya kini aktif di sistem.</p></div><button class=\"w-full bg-brand-maroon text-brand-beige py-3 rounded-lg font-label-md text-label-md hover:brightness-110 transition-all\" onclick=\"window.location.href='#'\">Tutup</button></div></div></div>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Dinas\\verifikasiRestoran.blade.php": [
+        {
+            "line": 256,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        },
+        {
+            "line": 266,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        },
+        {
+            "line": 276,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-xs font-label-md text-secondary hover:text-brand-beige flex items-center gap-1 transition-colors\" href=\"#\">"
+        },
+        {
+            "line": 429,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-[10px] font-label-md text-secondary hover:text-brand-beige flex items-center gap-1\" href=\"#\">Lihat Berkas <span class=\"material-symbols-outlined text-[12px]\">open_in_new</span></a>"
+        },
+        {
+            "line": 436,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-[10px] font-label-md text-secondary hover:text-brand-beige flex items-center gap-1\" href=\"#\">Lihat Berkas <span class=\"material-symbols-outlined text-[12px]\">open_in_new</span></a>"
+        },
+        {
+            "line": 443,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-[10px] font-label-md text-secondary hover:text-brand-beige flex items-center gap-1\" href=\"#\">Lihat Berkas <span class=\"material-symbols-outlined text-[12px]\">open_in_new</span></a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\errors\\placeholder.blade.php": [
+        {
+            "line": 60,
+            "href": "{{ url()->previous() }}",
+            "reason": "Invalid link format: '{{ url()->previous() }}'",
+            "content": "<a href=\"{{ url()->previous() }}\">"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Resto\\dashboardResto.blade.php": [
+        {
+            "line": 132,
+            "href": "{{ route('resto.profil') }}",
+            "reason": "Route name 'resto.profil' is not registered",
+            "content": "<span class=\"font-medium text-[14px]\" style=\"color: #F5E6D3;\">Galeri Foto</span></a><a class=\"flex items-center gap-3 px-6 py-3 rounded-full hover:bg-surface-container-highest transition-colors duration-200\" href=\"{{ route('resto.reviews') }}\"><span class=\"material-symbols-outlined text-[24px]\" style=\"color: #F5E6D3;\">rate_review</span><span class=\"font-medium text-[14px]\" style=\"color: #F5E6D3;\">Ulasan Restoran</span></a><a class=\"flex items-center gap-3 px-6 py-3 rounded-full hover:bg-surface-container-highest transition-colors duration-200\" href=\"{{ route('resto.profil') }}\"><span class=\"material-symbols-outlined text-[24px]\" style=\"color: #F5E6D3;\">storefront</span><span class=\"font-medium text-[14px]\" style=\"color: #F5E6D3;\">Profil Usaha</span></a><a class=\"flex items-center gap-3 px-6 py-3 rounded-full hover:bg-surface-container-highest transition-colors duration-200\" href=\"{{ route('resto.sertifikasi') }}\"><span class=\"material-symbols-outlined text-[24px]\" style=\"color: #F5E6D3;\">verified_user</span><span class=\"font-medium text-[14px]\" style=\"color: #F5E6D3;\">Sertifikasi</span></a></nav><div class=\"p-4 mt-auto\">"
+        },
+        {
+            "line": 255,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"text-[12px] text-primary hover:underline\" href=\"#\">Lihat Semua</a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Resto\\profilAdmin.blade.php": [
+        {
+            "line": 148,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"flex items-center gap-4 py-2 text-on-surface-variant hover:text-on-surface transition-colors\" href=\"#\">"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Resto\\ulasanResto.blade.php": [
+        {
+            "line": 120,
+            "href": "{{ route('dashboard') }}",
+            "reason": "Route name 'dashboard' is not registered",
+            "content": "<nav class=\"flex-1 px-4 space-y-1\"><a class=\"flex items-center gap-3 px-4 py-3 transition-colors duration-200\" href=\"{{ route('dashboard') }}\" style=\"color: rgb(245, 230, 211); font-size: 14px;\"><span class=\"material-symbols-outlined\" style=\"font-size: 24px; color: inherit;\">dashboard</span>"
+        },
+        {
+            "line": 127,
+            "href": "{{ route('resto.profil') }}",
+            "reason": "Route name 'resto.profil' is not registered",
+            "content": "<a class=\"flex items-center gap-3 px-4 py-3 transition-colors duration-200\" href=\"{{ route('resto.profil') }}\" style=\"color: rgb(245, 230, 211); font-size: 14px;\"><span class=\"material-symbols-outlined\" style=\"font-size: 24px; color: inherit;\">storefront</span><span class=\"font-label-md text-label-md\">Profil Usaha</span></a><a class=\"flex items-center gap-3 px-4 py-3 transition-colors duration-200\" href=\"{{ route('resto.sertifikasi') }}\" style=\"color: rgb(245, 230, 211); font-size: 14px;\"><span class=\"material-symbols-outlined\" style=\"font-size: 24px; color: inherit;\">verified_user</span><span class=\"font-label-md text-label-md\">Sertifikasi</span></a></nav>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\welcome.blade.php": [
+        {
+            "line": 43,
+            "href": "{{ route('register') }}",
+            "reason": "Route name 'register' is not registered",
+            "content": "href=\"{{ route('register') }}\""
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\detailRestoran.blade.php": [
+        {
+            "line": 133,
+            "href": "{{ route('katalog') }}",
+            "reason": "Route name 'katalog' is not registered",
+            "content": "<a class=\"font-label-md text-label-md hover:text-primary transition-colors border-b-2 pb-1 font-bold text-primary border-primary\" href=\"{{ route('katalog') }}\">Katalog</a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\formulirPendaftaranUsaha.blade.php": [
+        {
+            "line": 125,
+            "href": "{{ route('mitra.status-pendaftaran') }}",
+            "reason": "Route name 'mitra.status-pendaftaran' is not registered",
+            "content": "<div class=\"hidden md:flex gap-8 items-center\"><a class=\"text-on-surface-variant font-label-md text-label-md transition-colors\" href=\"{{ route('mitra.status-pendaftaran') }}\" style=\"transition: color 0.3s; --hover-color: #F5F5DC;\">Status Pendaftaran</a></div>"
+        },
+        {
+            "line": 212,
+            "href": "{{ route('tentang-kami') }}",
+            "reason": "Route name 'tentang-kami' is not registered",
+            "content": "<a class=\"text-on-surface-variant underline transition-all\" href=\"{{ route('tentang-kami') }}\" style=\"transition: color 0.3s; --hover-color: #F5F5DC;\">Tentang Kami</a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\katalog.blade.php": [
+        {
+            "line": 131,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<nav class=\"fixed top-0 w-full z-50 flex justify-between items-center px-margin-desktop h-20 bg-background/80 dark:bg-background/80 backdrop-blur-md border-b border-white/10 shadow-sm\"><div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"#\" style=\"color: rgb(245, 245, 220); font-weight: 700; border-bottom: 2px solid rgb(245, 245, 220);\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Tentang</a></div><div class=\"flex items-center gap-4\"><div class=\"flex items-center gap-6\"><button class=\"relative text-on-surface-variant hover:text-primary transition-colors\"><span class=\"material-symbols-outlined\">notifications</span><span class=\"absolute top-0 right-0 w-2 h-2 bg-primary rounded-full\"></span></button><div class=\"flex items-center gap-3 border-l border-white/10 pl-6\"><div class=\"text-right hidden md:block\"><p class=\"font-label-md text-label-md text-on-surface font-bold\">Anita Santoso</p><p class=\"text-[10px] tracking-widest text-primary font-bold uppercase\">Wisatawan Premium</p></div><div class=\"w-10 h-10 rounded-full overflow-hidden border-2 border-primary\"><img alt=\"Anita Santoso\" class=\"w-full h-full object-cover\" src=\"https://lh3.googleusercontent.com/aida-public/AB6AXuDjLlUIoQ-smlUmNoU4twHPE1DjVmKeB0oQdBhGn61iP7a3nK_8NixxKmWqUEObLBquRgXuaRiE26QCqRq1ThFMJor-HxVDbqzpvyGrNXBCvVKeHX18c_Rn5n9fMrvBm1-JnioRAk3R9Y-UfeSBgDTM-BFF64XA6UdXilBTQEYVpPjDYQk85XYxQPLhc7pS0wq1HDOCFTewKVVkLZbycaEBTmo-LR54u8Y_fKwwvbqAA8rL8ivlZRUrVSEVjxrFVjMwbA6GC7CC4MWt\"></div></div></div></div></nav>"
+        },
+        {
+            "line": 131,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<nav class=\"fixed top-0 w-full z-50 flex justify-between items-center px-margin-desktop h-20 bg-background/80 dark:bg-background/80 backdrop-blur-md border-b border-white/10 shadow-sm\"><div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"#\" style=\"color: rgb(245, 245, 220); font-weight: 700; border-bottom: 2px solid rgb(245, 245, 220);\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Tentang</a></div><div class=\"flex items-center gap-4\"><div class=\"flex items-center gap-6\"><button class=\"relative text-on-surface-variant hover:text-primary transition-colors\"><span class=\"material-symbols-outlined\">notifications</span><span class=\"absolute top-0 right-0 w-2 h-2 bg-primary rounded-full\"></span></button><div class=\"flex items-center gap-3 border-l border-white/10 pl-6\"><div class=\"text-right hidden md:block\"><p class=\"font-label-md text-label-md text-on-surface font-bold\">Anita Santoso</p><p class=\"text-[10px] tracking-widest text-primary font-bold uppercase\">Wisatawan Premium</p></div><div class=\"w-10 h-10 rounded-full overflow-hidden border-2 border-primary\"><img alt=\"Anita Santoso\" class=\"w-full h-full object-cover\" src=\"https://lh3.googleusercontent.com/aida-public/AB6AXuDjLlUIoQ-smlUmNoU4twHPE1DjVmKeB0oQdBhGn61iP7a3nK_8NixxKmWqUEObLBquRgXuaRiE26QCqRq1ThFMJor-HxVDbqzpvyGrNXBCvVKeHX18c_Rn5n9fMrvBm1-JnioRAk3R9Y-UfeSBgDTM-BFF64XA6UdXilBTQEYVpPjDYQk85XYxQPLhc7pS0wq1HDOCFTewKVVkLZbycaEBTmo-LR54u8Y_fKwwvbqAA8rL8ivlZRUrVSEVjxrFVjMwbA6GC7CC4MWt\"></div></div></div></div></nav>"
+        },
+        {
+            "line": 131,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<nav class=\"fixed top-0 w-full z-50 flex justify-between items-center px-margin-desktop h-20 bg-background/80 dark:bg-background/80 backdrop-blur-md border-b border-white/10 shadow-sm\"><div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"#\" style=\"color: rgb(245, 245, 220); font-weight: 700; border-bottom: 2px solid rgb(245, 245, 220);\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Tentang</a></div><div class=\"flex items-center gap-4\"><div class=\"flex items-center gap-6\"><button class=\"relative text-on-surface-variant hover:text-primary transition-colors\"><span class=\"material-symbols-outlined\">notifications</span><span class=\"absolute top-0 right-0 w-2 h-2 bg-primary rounded-full\"></span></button><div class=\"flex items-center gap-3 border-l border-white/10 pl-6\"><div class=\"text-right hidden md:block\"><p class=\"font-label-md text-label-md text-on-surface font-bold\">Anita Santoso</p><p class=\"text-[10px] tracking-widest text-primary font-bold uppercase\">Wisatawan Premium</p></div><div class=\"w-10 h-10 rounded-full overflow-hidden border-2 border-primary\"><img alt=\"Anita Santoso\" class=\"w-full h-full object-cover\" src=\"https://lh3.googleusercontent.com/aida-public/AB6AXuDjLlUIoQ-smlUmNoU4twHPE1DjVmKeB0oQdBhGn61iP7a3nK_8NixxKmWqUEObLBquRgXuaRiE26QCqRq1ThFMJor-HxVDbqzpvyGrNXBCvVKeHX18c_Rn5n9fMrvBm1-JnioRAk3R9Y-UfeSBgDTM-BFF64XA6UdXilBTQEYVpPjDYQk85XYxQPLhc7pS0wq1HDOCFTewKVVkLZbycaEBTmo-LR54u8Y_fKwwvbqAA8rL8ivlZRUrVSEVjxrFVjMwbA6GC7CC4MWt\"></div></div></div></div></nav>"
+        },
+        {
+            "line": 131,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<nav class=\"fixed top-0 w-full z-50 flex justify-between items-center px-margin-desktop h-20 bg-background/80 dark:bg-background/80 backdrop-blur-md border-b border-white/10 shadow-sm\"><div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"#\" style=\"color: rgb(245, 245, 220); font-weight: 700; border-bottom: 2px solid rgb(245, 245, 220);\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"#\">Tentang</a></div><div class=\"flex items-center gap-4\"><div class=\"flex items-center gap-6\"><button class=\"relative text-on-surface-variant hover:text-primary transition-colors\"><span class=\"material-symbols-outlined\">notifications</span><span class=\"absolute top-0 right-0 w-2 h-2 bg-primary rounded-full\"></span></button><div class=\"flex items-center gap-3 border-l border-white/10 pl-6\"><div class=\"text-right hidden md:block\"><p class=\"font-label-md text-label-md text-on-surface font-bold\">Anita Santoso</p><p class=\"text-[10px] tracking-widest text-primary font-bold uppercase\">Wisatawan Premium</p></div><div class=\"w-10 h-10 rounded-full overflow-hidden border-2 border-primary\"><img alt=\"Anita Santoso\" class=\"w-full h-full object-cover\" src=\"https://lh3.googleusercontent.com/aida-public/AB6AXuDjLlUIoQ-smlUmNoU4twHPE1DjVmKeB0oQdBhGn61iP7a3nK_8NixxKmWqUEObLBquRgXuaRiE26QCqRq1ThFMJor-HxVDbqzpvyGrNXBCvVKeHX18c_Rn5n9fMrvBm1-JnioRAk3R9Y-UfeSBgDTM-BFF64XA6UdXilBTQEYVpPjDYQk85XYxQPLhc7pS0wq1HDOCFTewKVVkLZbycaEBTmo-LR54u8Y_fKwwvbqAA8rL8ivlZRUrVSEVjxrFVjMwbA6GC7CC4MWt\"></div></div></div></div></nav>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\laksan.blade.php": [
+        {
+            "line": 126,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a>"
+        },
+        {
+            "line": 128,
+            "href": "{{ route('wisatawan.peta') }}",
+            "reason": "Route name 'wisatawan.peta' is not registered",
+            "content": "<a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a>"
+        },
+        {
+            "line": 347,
+            "href": "{{ route('wisatawan.privasi') }}",
+            "reason": "Route name 'wisatawan.privasi' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-primary-fixed-dim underline transition-all font-body-md text-body-md\" href=\"{{ route('wisatawan.privasi') }}\">Privacy Policy</a></li>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\mieCelor.blade.php": [
+        {
+            "line": 152,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a>"
+        },
+        {
+            "line": 154,
+            "href": "{{ route('wisatawan.peta') }}",
+            "reason": "Route name 'wisatawan.peta' is not registered",
+            "content": "<a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\model.blade.php": [
+        {
+            "line": 136,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"{{ route('wisatawan.katalog') }}\" style=\"color: rgb(245, 245, 220); font-weight: 700;\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.tentang') }}\">Tentang</a></div>"
+        },
+        {
+            "line": 136,
+            "href": "{{ route('wisatawan.peta') }}",
+            "reason": "Route name 'wisatawan.peta' is not registered",
+            "content": "<div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"{{ route('wisatawan.katalog') }}\" style=\"color: rgb(245, 245, 220); font-weight: 700;\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.tentang') }}\">Tentang</a></div>"
+        },
+        {
+            "line": 385,
+            "href": "{{ route('pusat.privasi') }}",
+            "reason": "Route name 'pusat.privasi' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-beige underline transition-all font-body-md text-body-md\" href=\"{{ route('pusat.privasi') }}\">Privacy Policy</a></li>"
+        },
+        {
+            "line": 386,
+            "href": "{{ route('pusat.syarat') }}",
+            "reason": "Route name 'pusat.syarat' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-beige underline transition-all font-body-md text-body-md\" href=\"{{ route('pusat.syarat') }}\">Terms of Service</a></li>"
+        },
+        {
+            "line": 388,
+            "href": "{{ route('wisatawan.partnership') }}",
+            "reason": "Route name 'wisatawan.partnership' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-beige underline transition-all font-body-md text-body-md\" href=\"{{ route('wisatawan.partnership') }}\">Partnerships</a></li>"
+        },
+        {
+            "line": 409,
+            "href": "{{ route('wisatawan.partnership') }}",
+            "reason": "Route name 'wisatawan.partnership' is not registered",
+            "content": "<a class=\"w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-high text-beige hover:bg-beige hover:text-background transition-all\" href=\"{{ route('wisatawan.partnership') }}\">"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\pempek.blade.php": [
+        {
+            "line": 136,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"{{ route('wisatawan.katalog') }}\" style=\"color: rgb(245, 245, 220); font-weight: 700;\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.tentang') }}\">Tentang</a></div>"
+        },
+        {
+            "line": 136,
+            "href": "{{ route('wisatawan.peta') }}",
+            "reason": "Route name 'wisatawan.peta' is not registered",
+            "content": "<div class=\"h-10 flex items-center\"><div class=\"font-display-lg text-headline-md font-bold text-primary\" style=\"color: rgb(90, 15, 22); font-weight: 700;\">SMWKP</div></div><div class=\"hidden md:flex items-center gap-8\"><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a><a class=\"font-label-md text-label-md text-primary border-b-2 border-primary pb-1 transition-colors\" href=\"{{ route('wisatawan.katalog') }}\" style=\"color: rgb(245, 245, 220); font-weight: 700;\">Katalog</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.peta') }}\">Peta Kuliner</a><a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.tentang') }}\">Tentang</a></div>"
+        },
+        {
+            "line": 270,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<footer class=\"w-full py-20 px-margin-desktop bg-surface-container-lowest border-t border-white/5\"><div class=\"max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-4 gap-12\"><div class=\"col-span-1 md:col-span-1\"><div class=\"font-display-lg text-headline-md font-bold text-primary mb-6\" style=\"color: rgb(90, 15, 22);\">SMWKP</div><p class=\"text-on-surface-variant text-body-md mb-8\">Gerbang digital menuju kekayaan kuliner Palembang. Temukan, nikmati, dan lestarikan warisan rasa Nusantara.</p><div class=\"flex gap-4\"><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">facebook</span></a><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">share</span></a></div></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Navigasi</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Beranda</li><li class=\"text-primary font-bold cursor-pointer\">Katalog</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Peta Kuliner</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Tentang Kami</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kategori</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pempek</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Model &amp; Tekwan</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Mie Celor</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pindang</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kontak</h4><ul class=\"space-y-4\"><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">mail</span>info@smwkp.id</li><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">location_on</span>Palembang, Sumatera Selatan</li></ul></div></div><div class=\"max-w-container-max mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4\"><p class=\"text-on-surface-variant text-sm\">\u00a9 2024 SMWKP. Hak Cipta Dilindungi.</p><div class=\"flex gap-8 text-sm text-on-surface-variant\"><a href=\"#\" class=\"hover:text-beige transition-colors\">Kebijakan Privasi</a><a href=\"#\" class=\"hover:text-beige transition-colors\">Syarat &amp; Ketentuan</a></div></div></footer>"
+        },
+        {
+            "line": 270,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<footer class=\"w-full py-20 px-margin-desktop bg-surface-container-lowest border-t border-white/5\"><div class=\"max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-4 gap-12\"><div class=\"col-span-1 md:col-span-1\"><div class=\"font-display-lg text-headline-md font-bold text-primary mb-6\" style=\"color: rgb(90, 15, 22);\">SMWKP</div><p class=\"text-on-surface-variant text-body-md mb-8\">Gerbang digital menuju kekayaan kuliner Palembang. Temukan, nikmati, dan lestarikan warisan rasa Nusantara.</p><div class=\"flex gap-4\"><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">facebook</span></a><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">share</span></a></div></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Navigasi</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Beranda</li><li class=\"text-primary font-bold cursor-pointer\">Katalog</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Peta Kuliner</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Tentang Kami</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kategori</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pempek</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Model &amp; Tekwan</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Mie Celor</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pindang</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kontak</h4><ul class=\"space-y-4\"><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">mail</span>info@smwkp.id</li><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">location_on</span>Palembang, Sumatera Selatan</li></ul></div></div><div class=\"max-w-container-max mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4\"><p class=\"text-on-surface-variant text-sm\">\u00a9 2024 SMWKP. Hak Cipta Dilindungi.</p><div class=\"flex gap-8 text-sm text-on-surface-variant\"><a href=\"#\" class=\"hover:text-beige transition-colors\">Kebijakan Privasi</a><a href=\"#\" class=\"hover:text-beige transition-colors\">Syarat &amp; Ketentuan</a></div></div></footer>"
+        },
+        {
+            "line": 270,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<footer class=\"w-full py-20 px-margin-desktop bg-surface-container-lowest border-t border-white/5\"><div class=\"max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-4 gap-12\"><div class=\"col-span-1 md:col-span-1\"><div class=\"font-display-lg text-headline-md font-bold text-primary mb-6\" style=\"color: rgb(90, 15, 22);\">SMWKP</div><p class=\"text-on-surface-variant text-body-md mb-8\">Gerbang digital menuju kekayaan kuliner Palembang. Temukan, nikmati, dan lestarikan warisan rasa Nusantara.</p><div class=\"flex gap-4\"><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">facebook</span></a><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">share</span></a></div></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Navigasi</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Beranda</li><li class=\"text-primary font-bold cursor-pointer\">Katalog</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Peta Kuliner</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Tentang Kami</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kategori</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pempek</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Model &amp; Tekwan</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Mie Celor</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pindang</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kontak</h4><ul class=\"space-y-4\"><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">mail</span>info@smwkp.id</li><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">location_on</span>Palembang, Sumatera Selatan</li></ul></div></div><div class=\"max-w-container-max mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4\"><p class=\"text-on-surface-variant text-sm\">\u00a9 2024 SMWKP. Hak Cipta Dilindungi.</p><div class=\"flex gap-8 text-sm text-on-surface-variant\"><a href=\"#\" class=\"hover:text-beige transition-colors\">Kebijakan Privasi</a><a href=\"#\" class=\"hover:text-beige transition-colors\">Syarat &amp; Ketentuan</a></div></div></footer>"
+        },
+        {
+            "line": 270,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<footer class=\"w-full py-20 px-margin-desktop bg-surface-container-lowest border-t border-white/5\"><div class=\"max-w-container-max mx-auto grid grid-cols-1 md:grid-cols-4 gap-12\"><div class=\"col-span-1 md:col-span-1\"><div class=\"font-display-lg text-headline-md font-bold text-primary mb-6\" style=\"color: rgb(90, 15, 22);\">SMWKP</div><p class=\"text-on-surface-variant text-body-md mb-8\">Gerbang digital menuju kekayaan kuliner Palembang. Temukan, nikmati, dan lestarikan warisan rasa Nusantara.</p><div class=\"flex gap-4\"><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">facebook</span></a><a href=\"#\" class=\"w-10 h-10 rounded-full glass-card flex items-center justify-center text-on-surface-variant hover:text-beige transition-colors\"><span class=\"material-symbols-outlined\">share</span></a></div></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Navigasi</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Beranda</li><li class=\"text-primary font-bold cursor-pointer\">Katalog</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Peta Kuliner</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Tentang Kami</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kategori</h4><ul class=\"space-y-4\"><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pempek</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Model &amp; Tekwan</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Mie Celor</li><li class=\"text-on-surface-variant hover:text-primary cursor-pointer transition-colors\">Pindang</li></ul></div><div><h4 class=\"font-label-md text-beige uppercase tracking-widest mb-6\">Kontak</h4><ul class=\"space-y-4\"><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">mail</span>info@smwkp.id</li><li class=\"flex items-center gap-3 text-on-surface-variant\"><span class=\"material-symbols-outlined text-primary\">location_on</span>Palembang, Sumatera Selatan</li></ul></div></div><div class=\"max-w-container-max mx-auto mt-20 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4\"><p class=\"text-on-surface-variant text-sm\">\u00a9 2024 SMWKP. Hak Cipta Dilindungi.</p><div class=\"flex gap-8 text-sm text-on-surface-variant\"><a href=\"#\" class=\"hover:text-beige transition-colors\">Kebijakan Privasi</a><a href=\"#\" class=\"hover:text-beige transition-colors\">Syarat &amp; Ketentuan</a></div></div></footer>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\reservasiBerhasil.blade.php": [
+        {
+            "line": 147,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<a class=\"group relative overflow-hidden bg-primary-container text-on-surface px-8 py-4 rounded-full font-label-md text-label-md transition-all duration-300 hover:shadow-lg hover:shadow-outline/20 active:scale-95 flex items-center justify-center gap-2\" href=\"{{ route('wisatawan.homepage') }}\">"
+        },
+        {
+            "line": 155,
+            "href": "{{ route('pusat-bantuan') }}",
+            "reason": "Route name 'pusat-bantuan' is not registered",
+            "content": "Ada pertanyaan? <a class=\"text-on-surface-variant hover:text-primary underline decoration-primary/30 transition-colors\" href=\"{{ route('pusat-bantuan') }}\">Hubungi Bantuan</a>"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\tekwan.blade.php": [
+        {
+            "line": 130,
+            "href": "{{ route('wisatawan.homepage') }}",
+            "reason": "Route name 'wisatawan.homepage' is not registered",
+            "content": "<a class=\"font-label-md text-label-md text-on-surface-variant hover:text-primary transition-colors\" href=\"{{ route('wisatawan.homepage') }}\">Beranda</a>"
+        },
+        {
+            "line": 397,
+            "href": "{{ route('privacy-policy') }}",
+            "reason": "Route name 'privacy-policy' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-primary transition-all font-body-md text-body-md underline\" href=\"{{ route('privacy-policy') }}\">Privacy Policy</a></li>"
+        },
+        {
+            "line": 398,
+            "href": "{{ route('terms-of-service') }}",
+            "reason": "Route name 'terms-of-service' is not registered",
+            "content": "<li class=\"\"><a class=\"text-on-surface-variant hover:text-primary transition-all font-body-md text-body-md underline\" href=\"{{ route('terms-of-service') }}\">Terms of Service</a></li>"
+        },
+        {
+            "line": 415,
+            "href": "{{ route('pusat-bantuan') }}",
+            "reason": "Route name 'pusat-bantuan' is not registered",
+            "content": "<a class=\"w-10 h-10 flex items-center justify-center rounded-full bg-surface-container-high text-primary hover:bg-primary hover:text-on-primary transition-all\" href=\"{{ route('pusat-bantuan') }}\" style=\"color: rgb(245, 245, 220);\">"
+        }
+    ],
+    "C:\\Users\\user\\OneDrive\\Documents\\freelances\\SMWKP\\SMWKP/resources/views\\Wisatawan\\ulasanTerkirim.blade.php": [
+        {
+            "line": 141,
+            "href": "#",
+            "reason": "Empty or hash (#) href",
+            "content": "<a class=\"bg-transparent border border-outline text-on-surface-variant hover:bg-surface-variant/30 px-8 py-4 rounded-full font-label-md text-label-md transition-all duration-300 w-full sm:w-auto min-w-[200px] flex items-center justify-center gap-2\" href=\"#\"><span class=\"material-symbols-outlined text-[20px]\">visibility</span>Lihat Ulasan Saya</a>"
+        }
+    ]
+}
